@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="desc_1">Welcome to my small Art Space!!</string>
+    <string name="name_1">By:Preeti</string>
+    <string name="desc_2">Shakuntala looking back to glimpse Dushyanta</string>
+    <string name="name_2">Raja Ravi Varma(1898)</string>
+    <string name="desc_3">Lady in Moonlight</string>
+    <string name="name_3">Raja Ravi Varma(1898)</string>
+    <string name="desc_4">Damayanti Talking to a Swan</string>
+    <string name="name_4">Raja Ravi Varma(1899)</string>
+    <string name="desc_5">Self Portrait as a Tahitian</string>
+    <string name="name_5">Amrita Sher-Gil(1934)</string>
+    <string name="desc_6">Woman with Offering</string>
+    <string name="name_6">Jamini Roy(20th century)</string>
+    <string name="desc_7">A Nautch in the Palace</string>
+    <string name="name_7">Edwin Lord Weeks( Late 19th century)</string>
+    <string name="desc_8">Group of Three Girls</string>
+    <string name="name_8">Amrita Sher-Gil(1935)</string>
+    <string name="desc_9">Lady with a Veena </string>
+    <string name="name_9">Raja Ravi Varma(Late 19th to early 20th century)</string>
+    <string name="desc_10">Bharat Mata</string>
+    <string name="name_10">Abanindranath Tagore(1905)</string>
+</resources>
